@@ -12,6 +12,7 @@ public class LunchOrderDemo {
 
         LunchOrder lunchOrder = builder.build();
 
+        System.out.println(lunchOrder);
         System.out.println(lunchOrder.getBread());
         System.out.println(lunchOrder.getCondiments());
         System.out.println(lunchOrder.getDressing());

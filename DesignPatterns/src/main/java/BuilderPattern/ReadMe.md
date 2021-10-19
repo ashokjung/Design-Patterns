@@ -31,12 +31,12 @@
 
 ## Everyday Example - StringBuilder
 
-    StringBuilder builder = new StringBuilder();
-    builder.append("This is an example");  
-    builder.append("of the builder pattern");  
-    builder.append("It has methods to implement");  
-    builder.append("42");  
-    System.out.println(builder.toString());  
+    StringBuilder userBuilder = new StringBuilder();
+    userBuilder.append("This is an example");  
+    userBuilder.append("of the userBuilder pattern");  
+    userBuilder.append("It has methods to implement");  
+    userBuilder.append("42");  
+    System.out.println(userBuilder.toString());  
 
 
 ## Builder Summary 
