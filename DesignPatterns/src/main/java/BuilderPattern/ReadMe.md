@@ -4,7 +4,7 @@ make Object Immutable once we are done constructing the Object.
 
 ## Concept 
 
-###*Handles Complex Constructor 
+###* Handles Complex Constructor 
 When Considering a Builder , we would like to consider if the construction of an object is
 complex
 
@@ -21,7 +21,7 @@ complex
       - Locale.Builder
 
 
-##Design Consideration
+## Design Consideration
 
     * Flexible over telescopic Construtor
     * Static Inner Class , this will return instance of the class.
