@@ -1,6 +1,7 @@
-Builder Pattern is used , where we would like to handle construction 
-of Objects that may contain lots of parameter & we would like to 
-make Object Immutable once we are done constructing the Object.
+#   Builder Pattern
+    Builder Pattern is used , where we would like to handle construction 
+    of Objects that may contain lots of parameter & we would like to 
+    make Object Immutable once we are done constructing the Object.
 
 ## Concept 
 
