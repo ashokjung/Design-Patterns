@@ -38,4 +38,9 @@
     builder.append("42");  
     System.out.println(builder.toString());  
 
+
+## Builder Summary 
+      Creative way to deal with Complexity 
+      Easy to Implement 
+      Can refactor in with the Separate class , the inner class in the demo
  
