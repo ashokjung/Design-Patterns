@@ -39,7 +39,7 @@
     }
 
 ## Lazy Load 
-    This line of code with try to instantiate the class on the runtime
+    This line of code will try to instantiate the class on the runtime
 
     private static DbSingleton instance = new DbSingleton();
 
