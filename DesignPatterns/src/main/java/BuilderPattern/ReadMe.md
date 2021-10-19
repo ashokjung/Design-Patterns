@@ -15,7 +15,7 @@ complex
   we can enforce Immutability once the Construction of Object is finished , which we cannot do 
   with a bunch of Getters & Setters
 
-###* Examples from Java 8 
+### Examples from Java 8   
       - StringBuilder  
       - DocumentBuilder  
       - Locale.Builder  
