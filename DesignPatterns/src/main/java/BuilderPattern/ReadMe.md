@@ -4,14 +4,14 @@ make Object Immutable once we are done constructing the Object.
 
 ## Concept 
 
-### * Handles Complex Constructor 
+###  Handles Complex Constructor 
 When Considering a Builder , we would like to consider if the construction of an object is
 complex
 
-### * Large Number of Parameters
+###  Large Number of Parameters
  A lots of setters and guarantying how the Objects gets build is quite difficult.
 
-### * Immutability
+###  Immutability
   we can enforce Immutability once the Construction of Object is finished , which we cannot do 
   with a bunch of Getters & Setters
 
