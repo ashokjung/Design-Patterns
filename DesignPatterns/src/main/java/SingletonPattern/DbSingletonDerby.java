@@ -46,7 +46,7 @@ public class DbSingletonDerby {
             synchronized (DbSingletonDerby.class){
                 if(_derbyConnection==null){
                     try{
-                        String dbUrl = "jdbc:derby:memory:codejava/webdb;create=true";
+                        String dbUrl = "jdbc:derby:memory:designPattern/derbydb;create=true";
                         _derbyConnection=DriverManager.getConnection(dbUrl);
                     }
                     catch (SQLException sqlException) {
